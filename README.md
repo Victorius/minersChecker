@@ -1,0 +1,2 @@
+# minersChecker
+Little description.
